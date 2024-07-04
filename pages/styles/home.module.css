@@ -1,0 +1,18 @@
+.home{
+    /* background: linear-gradient(180deg, #00C9EA 0%, #007CC2 100%); */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+.content{
+    min-width: 80%;
+    box-sizing: border-box;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}

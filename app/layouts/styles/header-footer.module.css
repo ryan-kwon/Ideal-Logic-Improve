@@ -1,0 +1,24 @@
+.layoutContainer {
+    display: flex;
+    min-height: 100vh; /*make sure height is at least as tall as the screen*/
+}
+.bgcolor{
+    background: linear-gradient(180deg, #00C9EA 0%, #007CC2 100%);
+}
+
+/* Header */
+.top{
+    display: flex;
+}
+.headericon{
+    border-radius: 130px;
+    background: #FFFFFF;
+}
+
+
+
+/* Sidebar */
+.sidebar{
+    width: max-content/12;
+    background-color: white;
+}
